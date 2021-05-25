@@ -5,7 +5,6 @@ amma
 nanna
 chinnu
 bosch
-team
 
 
 Hello Guys
